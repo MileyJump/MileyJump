@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20Project&fontSize=90)
+
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&gradientColor1=0033cc&gradientColor2=66ccff&height=300&section=header&text=✨Welcome%20to%20Minkyung%20Github✨&fontSize=50)
 
 > ## Sparkle
 #### 친목 도모와 원활한 협업을 위한 실시간 소통 앱
