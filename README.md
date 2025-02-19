@@ -33,9 +33,12 @@
 
 > ## Handy
 #### 핸드메이드 작품 거래 및 취미 공유 커뮤니티 앱
+
 - RxSwift와 MVVM 패턴을 적용하고, PG 연동을 통한 결제 시스템 및 REST API, JWT 토큰 기반 인증 기능 구현
+
 - iOS 1명 + 서버 1명 협업하여 개발
 - [Handy 리드미 바로가기](https://github.com/MileyJump/CraftMate)
+  
 
     
 ![Frame 2608637](https://github.com/user-attachments/assets/25c0601b-0c66-4cd6-87c5-eadec130d248)
