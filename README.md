@@ -18,7 +18,7 @@
 - 앱 스토어 출시 이후 영어 Localization을 추가하여 기능 개선 
 
 - [CosmicLetter 리드미 바로가기](https://github.com/MileyJump/TimetravelDiary)
-- [코스믹레터 앱 다운로드 하기](https://apps.apple.com/kr/app/%EC%BD%94%EC%8A%A4%EB%AF%B9%EB%A0%88%ED%84%B0-cosmicletter/id6736467201)
+- [코스믹레터 앱 다운로드 하기](https://apps.apple.com/kr/app/%EC%BD%94%EC%8A%A4%EB%AF%B9%EB%A0%88%ED%84%B0-cosmicletter/id6736467201) 
   
 ![Frame 2608637](https://github.com/user-attachments/assets/bb76570f-3703-4adf-a387-36f53ca7d963)
 
@@ -26,6 +26,7 @@
 #### 영화 및 드라마 즐겨찾기 및 조회할 수 있는 앱
 - RxSwift와 MVVM 패턴을 적용하고, TMDB API을 활용하여 기능 구현
 - iOS 개발자 3명이 git, github를 통해 협업하여 개발
+  
 - [Movielity 리드미 바로가기](https://github.com/MileyJump/Movielity_iOS)
   
 ![Frame 2608633](https://github.com/user-attachments/assets/97934b71-00b6-4925-ac7b-ad43d2c74bd3)
