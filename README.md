@@ -7,6 +7,7 @@
 #### 친목 도모와 원활한 협업을 위한 실시간 소통 앱
 - ReactorKit을 활용한 Reactor 패턴과 WebSocket 기반 실시간 채팅, JWT 토큰 인증 기능 구현
 - iOS 1명 + 서버 1명 : Figma, Confluence, Swager를 통해 협업하고, git, github을 활용해 개발
+- 개발 기간 : 
 
 - [Sparkle 리드미 바로가기](https://github.com/MileyJump/Sparkle)  
 
