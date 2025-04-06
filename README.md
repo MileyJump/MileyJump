@@ -17,6 +17,7 @@
 #### 영화 및 드라마 즐겨찾기 및 조회할 수 있는 앱
 - RxSwift와 MVVM 패턴을 적용하고, TMDB API을 활용하여 기능 구현
 - iOS 개발자 3명이 git, github를 통해 협업하여 개발
+- 개발 기간 :
   
 - [Movielity 리드미 바로가기](https://github.com/MileyJump/Movielity_iOS)
   
